@@ -13,11 +13,11 @@ For example these file names
 
 will be converted into
 
-	**00**002.ext 
+	00002.ext 
 	12345.s3 
-	    2 		# No vonversion because file 00002 already exists. 
-	**000**11 
-	**0**82aa.ext 
+	    2 				# No vonversion because file 00002 already exists. 
+	00011 
+	082aa.ext 
 
 Prefixes of user's choice can be added.
 
