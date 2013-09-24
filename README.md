@@ -5,7 +5,7 @@ Rename files by padding the numbers the chosen files-names start in with leading
 
 For example these file names
 
-	  002.ext 
+	  002 
 	12345.s3 
 	    2 
 	   11 
@@ -13,7 +13,7 @@ For example these file names
 
 will be converted into
 
-	00002.ext 
+	00002 
 	12345.s3 
 	    2 				# No vonversion because file 00002 already exists. 
 	00011 
